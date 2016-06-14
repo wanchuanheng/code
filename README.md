@@ -1,2 +1,2 @@
 # code
-about c++ , linux, distributed development
+ C++11  example
